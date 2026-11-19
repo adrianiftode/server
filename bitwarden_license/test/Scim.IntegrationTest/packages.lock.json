@@ -14,12 +14,12 @@
       },
       "AwesomeAssertions.Web": {
         "type": "Direct",
-        "requested": "[3.0.4, )",
-        "resolved": "3.0.4",
-        "contentHash": "gcdbtQzNNaWmxgvFvRn1IujUrvM8M5WFBS5gMEeC5JpPI71xbejGonoYVXV3sd3pEX3hKmIgDgB5pka2bVK74A==",
+        "requested": "[3.0.5, )",
+        "resolved": "3.0.5",
+        "contentHash": "0dFXJjjF7RhSuQZW3JScgdBUAT0tq12yLu3J/DNDNk2xouVRVYMwl5ddW0DTBzQ3fEtkDsqS5td0Kwf2SloiRg==",
         "dependencies": {
           "AwesomeAssertions": "9.6.0",
-          "HttpMessageFormatter": "2.0.9"
+          "HttpMessageFormatter": "2.0.10"
         }
       },
       "coverlet.collector": {
@@ -397,8 +397,8 @@
       },
       "HttpMessageFormatter": {
         "type": "Transitive",
-        "resolved": "2.0.9",
-        "contentHash": "9ZTQqVIu6gPTcuOzcIPCNU2Ze9owpSqaVDWjEXaKgQGc8Ao7gAoCMZXw2irfbJFzmqVJFcYRwayQK6DaBa4ucg=="
+        "resolved": "2.0.10",
+        "contentHash": "1Js+khAahghTaqugWB1jnclgP8nUwGLl5hNjaBWrKCCY4bJGXF4xunN2dxYtqrQCJ3PgKr45bGgqgCZ4G+DC2g=="
       },
       "Kralizek.AutoFixture.Extensions.MockHttp": {
         "type": "Transitive",
